@@ -9,7 +9,7 @@ ${URL} =  http://www.blazedemo.com/
 *** Test Cases ***
 
 User should able to access the home page
-    [Tags]  Priority
+    [Tags]  Priority demo for verion controlling
     [Documentation]  This is first test case
 
     BlazedemoApp.Go to landing page
